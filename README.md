@@ -4,12 +4,12 @@
 Projeto de App nativo Android Simulador de Partidas
 
 Uso o Retrofit como Cliente HTTP
-## Retrofit (HTTP Client): https://square.github.io/retrofit
+#### Retrofit (HTTP Client): https://square.github.io/retrofit
     implementation 'com.squareup.retrofit2:retrofit:2.9.0'
     implementation 'com.squareup.retrofit2:converter-gson:2.9.0'
     
 Uso do Glide para carregamento das imagens
-## Glide (Image Loading): https://github.com/bumptech/glide
+#### Glide (Image Loading): https://github.com/bumptech/glide
     implementation 'com.github.bumptech.glide:glide:4.11.0'
     annotationProcessor 'com.github.bumptech.glide:compiler:4.11.0'
     
