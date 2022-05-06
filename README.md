@@ -2,6 +2,7 @@
 ### Repositorio de estudos sobre o Android Studio - Kotlin - Java
 
 Projeto de App nativo Android Simulador de Partidas
+[Digital innovation One - Curso Java e Kotlin juntos criando um App](https://web.dio.me/course/java-e-kotlin-juntos-construindo-apps-android/learning/0c48a2e4-2ad1-4fa7-8b52-9b407ec20f85/?back=/browse)
 
 Uso o Retrofit como Cliente HTTP
 #### Retrofit (HTTP Client): https://square.github.io/retrofit
