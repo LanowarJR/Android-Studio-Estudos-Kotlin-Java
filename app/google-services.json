@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "325712356418",
+    "project_id": "simulador-partidas-dio",
+    "storage_bucket": "simulador-partidas-dio.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325712356418:android:39a9fd7708fef66fae39db",
+        "android_client_info": {
+          "package_name": "com.example.simulator_dio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325712356418-6ovt44h5or0aa45ctjv8uka1iik36e41.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyABMVB3WL-Giv80Ukbdwf1I23sXAReg1Og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325712356418-6ovt44h5or0aa45ctjv8uka1iik36e41.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
