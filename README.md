@@ -23,3 +23,5 @@ Organização das branchs para entendimento dos estudos realizados no DIO - [Dig
 
   - [Branch do Inicio dos estudos UI e UX](https://github.com/LanowarJR/Android-Studio-Estudos-Kotlin-Java/tree/componentes-layout-ui-ux-estudos)
   - [Branch do lançamento dos layouts e inicio dos estudos de interações do projeto](https://github.com/LanowarJR/Android-Studio-Estudos-Kotlin-Java/tree/release-layouts-ui-ux)
+
+Adicionado o uso do Firebase e do Crashlytics no aplicativo.
